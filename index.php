@@ -7,6 +7,13 @@
     <title>Git Compartido</title>
 </head>
 <body>
+
+    <!--contenedor 1-->
+    <div class="container">
+        <div class="row">
+            <p>Lorem ipsum dolor sit amet consectetur.</p>
+        </div>
+    </div>
     
 </body>
 </html>
